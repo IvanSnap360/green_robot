@@ -1,4 +1,0 @@
-<launch>
-<!--Запуск соединения с микроконтроллером для управления-->
-    <include file="$(find green_robot)/launch/driver.launch" />
-</launch>

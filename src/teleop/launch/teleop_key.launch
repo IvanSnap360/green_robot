@@ -1,4 +1,0 @@
-<launch>
-  <node pkg="teleop" type="teleop_key" name="teleop_keyboard" ns="green_robot" output="screen">
-  </node>
-</launch>
